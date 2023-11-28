@@ -2,18 +2,18 @@
 
 I'm Rich, a passionate individual interested in technology, coding, and continuous learning. Here's a bit about me:
 
-- 🌐 I'm currently based in [Your Location].
-- 💻 I'm a [Your Profession or Area of Interest].
-- 🌱 I’m currently learning [Languages or Technologies you're currently learning].
-- 🤔 I’m looking for help with [Anything you need help or collaboration on].
+- 🌐 I'm currently based in [Ghana.
+- 💻 I'm a web design and graphics design.
+- 🌱 I’m currently learning c++,html. css, java script,pnp.
+- 🤔 I’m looking for help with my coding career in order to get help and become a grreat programmer.
 - 💬 Ask me about [Topics you are knowledgeable about or passionate about].
-- 📫 How to reach me: [Your Email Address or Social Media Profiles].
+- 📫 How to reach me:richskekeli@gmail.com.
 
 ## Skills
 
-- 🔧 o am junior developer
+- 🔧 i am junior developer
 - a web designer
-- also an online 
+- also an online sales specialist and a virtual assistant
 
 ## Connect with Me
 
