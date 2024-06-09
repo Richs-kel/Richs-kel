@@ -1,4 +1,4 @@
-# kel-11145981_DCIT205
+# kels
 # Hi there, I'm @richs-ke! 👋
 
 I'm Rich, a passionate individual interested in technology, coding, and continuous learning. Here's a bit about me:
@@ -6,7 +6,7 @@ I'm Rich, a passionate individual interested in technology, coding, and continuo
 - 🌐 I'm currently based in [Ghana.
 - 💻 I'm a web design and graphics design.
 - 🌱 I’m currently learning c++,html. css, java script,pnp.
-- 🤔 I’m looking for help with my coding career in order to get help and become a grreat programmer.
+- 🤔 I’m looking for help with my coding career in order to get help and become a great programmer.
 - 💬 Ask me about [Topics you are knowledgeable about or passionate about].
 - 📫 How to reach me:richskekeli@gmail.com.
 
